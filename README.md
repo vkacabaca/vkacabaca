@@ -1,43 +1,9 @@
-# Customer Segmentation for the Just Good Work App
+About Me
 
-##  Project Overview
-This project analyses user data from the Just Good Work app (used by over 75,000 users) to identify customer segments and generate actionable insights.  
-The goal is to support stakeholder decision-making, improve marketing strategies, and help prevent worker exploitation.
+Hi, I’m Khanh Nguyen! I’m a Data Analyst with a background in Banking & Finance, currently completing my MSc in Business Analytics at Aston University (UK). My journey blends financial reasoning with strong technical skills in Python, SQL, and Power BI — and a passion for using data to solve real-world problems.
 
-##  Tools and Technologies
-- Python (Pandas, Scikit-Learn, Matplotlib, Seaborn)
-- SQL (Google Cloud SQL)
-- Power BI
-- Machine Learning: K-Modes, K-Means, DBSCAN
-- PCA for dimensionality reduction
+During my academic and industry projects, I’ve worked with large datasets, performed exploratory data analysis, built dashboards for stakeholders, and developed machine learning models to uncover patterns and drive decisions. I’m especially interested in applying analytics in areas like public impact, operational efficiency, and social good.
 
-## Workflow
-- Data collection and cleaning
-- Exploratory Data Analysis (EDA)
-- Feature engineering and scaling
-- Clustering with K-Modes, K-Means, and DBSCAN
-- Model evaluation using Silhouette Score, Davies-Bouldin Index
-- Building a Power BI dashboard for business insights
+In my free time, I love exploring new tools, improving my analytics workflow, and continuously learning from real data challenges. Whether it’s transforming raw data or delivering actionable insights, I’m driven by curiosity and a strong sense of purpose.
 
-## Key Findings
-- Central Asian users (ages 21–30) dominate app usage, mainly in agriculture and factory work.
-- Seasonal trends observed: peaks in app registration during spring and mid-year.
-- Recommendations developed for region-specific marketing and targeted user engagement strategies.
-
-## Skills Demonstrated
-- Exploratory Data Analysis (EDA)
-- Machine Learning for segmentation (unsupervised learning)
-- Power BI dashboard creation
-- SQL querying and cloud data handling
-- Business problem solving and stakeholder reporting
-
-## Folder Structure
-/customer-segmentation-fiftyeight
-├── data_preprocessing.ipynb
-├── eda_analysis.ipynb
-├── clustering_models.ipynb
-├── powerbi_dashboard_screenshots/
-├── README.md
-
-## 📢 Disclaimer
-This project was completed as part of an MSc Business Analytics industrial placement at Aston University and FiftyEight Ltd.
+This repository is where I showcase my projects, technical growth, and passion for all things data.
