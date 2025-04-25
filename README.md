@@ -46,7 +46,7 @@ Developed and presented an interactive Power BI dashboard showing 4 key user seg
 **Goal:**  
 To build a machine learning model that predicts traffic accident severity levels based on road and driver-related features.
 
-**Code:** [`Accident_Severity_Prediction.ipynb`](https://github.com/yourusername/PortfolioProjects/blob/main/Accident_Severity_Prediction.ipynb)
+**Code:** [`Accident_Severity_Prediction.ipynb`]((https://github.com/vkacabaca/Predicting-Accident-Severity/blob/main/Predicting%20Accident%20Severity.ipynb))
 
 **Description:**  
 Used a dataset with over 32,000 UK accident records. The project included EDA, data cleaning, feature engineering, class imbalance handling, and multi-model ML training. Three classifiers (Logistic Regression, Random Forest, XGBoost) were trained, with hyperparameter tuning using GridSearchCV and RandomizedSearchCV.
