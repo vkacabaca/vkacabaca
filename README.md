@@ -25,7 +25,8 @@ This repository is where I showcase my projects, technical growth, and passion f
 **Goal:**  
 To segment 75,000+ users of the Just Good Work app based on behavioural and demographic patterns to support ethical hiring strategies, regional marketing, and stakeholder decision-making.
 
-**Code:** [`Customer_Segmentation_FiftyEight.ipynb`](https://github.com/vkacabaca/Customer_Segmentation_fiftyeight.ipynb)]
+**Code:** [`Customer_Segmentation_FiftyEight.ipynb`](https://github.com/vkacabaca/Customer_Segmentation_fiftyeight.ipynb/blob/main/demo%20trial.ipynb)]
+
 **Description:**  
 The dataset included user records from the Just Good Work app, supplemented by UK Home Office visa data. The project involved EDA, handling missing values, feature engineering, outlier detection, and dimensionality reduction using PCA. Three unsupervised machine learning models were implemented (K-Means, K-Modes, DBSCAN) to identify clusters of user profiles.
 
