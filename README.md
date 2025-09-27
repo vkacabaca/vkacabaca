@@ -14,6 +14,7 @@ This repository is where I showcase my projects, technical growth, and passion f
 - [Portfolio Projects]()
   - Python
  - Power BI
+ - Excel 
 - [Education]()  
 - [Certificates]()
 - [Contact]()
@@ -60,7 +61,37 @@ Python, Pandas, Numpy, Scikit-learn, XGBoost, SMOTE, Matplotlib, Seaborn.
 **Results:**  
 Achieved an F1-score of 85% on minority class using tuned XGBoost model. Key insights identified road conditions and vehicle type as strong predictors of severity.
 
----
+### Solo Travel Safety Index – Data Analysis Project
+
+**Goal:**  
+Build a ranking of all 50 U.S. states and D.C. to identify the safest destinations for solo travelers using multi-factor data from 2023.
+
+**Code:**  
+([solo travel by state.xlsx](https://github.com/vkacabaca/US-Solo-Travel-Safety-Index/blob/main/solo%20travel%20by%20state.xlsx))
+
+**Description:**  
+Collected and merged state-level datasets to evaluate key solo-travel risk factors:
+- Violent and property crime rates (FBI UCR)
+- Road safety (fatal crash rate, DUI rate, total crashes – IIHS, NHTSA/BTS)
+- Access to emergency services (hospitals, police per capita, EMS response time – KFF, WorldPopulationReview, PMC EMS study)
+- Infrastructure quality (miles of public road, number of airports, accommodation affordability – BTS, WorldPopulationReview)
+- Popularity of solo travel searches (Google Trends via Python PyTrends)
+
+All metrics were converted to per-capita or percentage rates, normalized to a 0–100 scale using min-max scaling, and combined into a **Solo Safety Score** using weighted factors:
+- Crime rate: **30%**
+- Road safety: **20%**
+- Emergency access: **20%**
+- Infrastructure quality: **25%**
+- Solo-travel search interest: **5%**
+
+**Skills:**  
+Data collection, cleaning, and normalization; per-capita calculations; weighted scoring and ranking; Excel PivotTables; Python automation (PyTrends).
+
+**Technology:**  
+Excel, Python, Pandas, NumPy.
+
+**Results:**  
+Generated a final Solo Safety Index with Top 10 safest and Top 10 riskiest states for solo travelers, revealing states with strong infrastructure, low crime, and efficient emergency services as the best options for 2023 travel.
 ## 🎓 Education
 
 **Aston University (UK)**  
