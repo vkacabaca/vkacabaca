@@ -61,6 +61,26 @@ Python, Pandas, Numpy, Scikit-learn, XGBoost, SMOTE, Matplotlib, Seaborn.
 **Results:**  
 Achieved an F1-score of 85% on minority class using tuned XGBoost model. Key insights identified road conditions and vehicle type as strong predictors of severity.
 
+### PD Credit Scorecard – Credit Risk Modeling Project
+
+**Goal:**  
+To build a credit scorecard that estimates the **Probability of Default (PD)** of loan applicants to support credit risk assessment and lending decisions.
+
+**Code:**  
+[`PD_credit_scorecard.ipynb`](https://github.com/vkacabaca/PD--credit-scorecard-)
+
+**Description:**  
+Developed an end-to-end PD credit scorecard using historical borrower data. The project covered data cleaning, exploratory data analysis, variable binning, Weight of Evidence (WoE) encoding, and logistic regression modeling. The scorecard framework emphasizes interpretability and follows industry-standard credit risk modeling practices.
+
+**Skills:**  
+Credit risk modeling, probability of default (PD), logistic regression, feature binning, Weight of Evidence (WoE), exploratory data analysis, model evaluation.
+
+**Technology:**  
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+
+**Results:**  
+Built an interpretable PD model capable of ranking borrowers by credit risk. The scorecard supports clear risk segmentation and provides a practical foundation for credit approval and portfolio risk monitoring.
+
 ### Solo Travel Safety Index – Data Analysis Project
 
 **Goal:**  
